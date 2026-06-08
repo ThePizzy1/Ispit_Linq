@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ispit.Konzola/Ispit.Konzola.csproj" />
+  <Project Path="Ispit.Model/Ispit.Model.csproj" />
+</Solution>
